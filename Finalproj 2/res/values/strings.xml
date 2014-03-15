@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"></string>
+    <string name="action_settings"></string>
+    <string name="hello_world"></string>
+    <string name="title_activity_signup"></string>
+    <string name="title_activity_register"></string>
+    <string name="title_activity_home_tab"></string>
+    <string name="title_activity_tab_swipe"></string>
+    <string name="title_activity_home"></string>
+    <string name="title_activity_profile"></string>
+    <string name="title_activity_follow"></string>
+    <string name="title_activity_postit"></string>
+    <string name="title_activity_home2"></string>
+    <string name="title_activity_home_layout"></string>
+    <string name="title_activity_debbie"></string>
+    <string name="title_activity_follow_layout"></string>
+    <string name="title_activity_follower"></string>
+    <string name="title_activity_following"></string>
+    <string name="title_activity_meme_adapter"></string>
+    <string name="title_activity_display"></string>
+
+    <string-array name="name">
+        <item>Erwin Barte</item>
+        <item>Karl Nuez</item>
+        <item>Debbie Daitol</item>
+        <item>Enricke Kee</item>
+        <item>Christian Ompad</item>
+        <item>Joseph Pilapil</item>
+        <item>Paulo Paraguya</item>
+        <item>Irvin Abellanosa</item>
+        <item>John Villanueva</item>
+        <item>Ram Santiago</item>
+    </string-array>
+
+    <string name="title_activity_new_adapter"></string>
+    <string name="title_activity_thread"></string>
+    <string name="title_activity_answer"></string>
+    <string name="title_activity_homehome"></string>
+    <string name="title_activity_thread_two"></string>
+    <string name="title_activity_settings">Change Password</string>
+    <string name="title_activity_home_adapter">HomeAdapter</string>
+
+    <string-array name="title">
+        <item>followed Jaxl Noval</item>
+        <item>followed you</item>
+        <item>answered a question</item>
+        <item>followed you</item>
+        <item>answered a question</item>
+        <item>followed you</item>
+        <item>followed Jesseth</item>
+        <item>answered a question</item>
+        <item>followed you</item>
+        <item>followed you</item>
+    </string-array>
+    <string-array name="time">
+        <item>a moment ago</item>
+        <item>10 seconds ago</item>
+        <item>1 minute ago</item>
+        <item>2 minutes ago</item>
+        <item>5 minutes ago</item>
+        <item>7 minutes ago</item>
+        <item>10 minutes ago</item>
+        <item>20 minutes ago</item>
+        <item>25 minutes ago</item>
+        <item>45 minutes ago</item>
+    </string-array>
+
+    <string name="title_activity_jaxl"></string>
+    <string name="title_activity_jesseth"></string>
+    <string name="title_activity_question"></string>
+    
+    <string-array name="qa">
+        <item>Which came first, is it egg or chicken?
+            
+            -egg, because it is where life begins.</item>
+        <item>Who is your favorite actress?
+            
+            -Angel Locsin!</item>
+        <item>What anime is nice to watch this summer?
+            
+            -Fairy Tail</item>
+        <item>Is dota 2 better than dota 1?
+            
+            -yes</item>
+        <item>Gwapo ko?
+            
+            -o oy!</item>
+        <item>Mas gwapo man ko sa?
+            
+            -Mas gwapo jud ko.</item>
+        <item>What place is nice to have vacation?
+            
+            -boracay because of its white sand :)</item>
+        <item>Daghan ka ug chix?
+            
+            -daghan kaau.</item>
+        <item>Love kaha ko ni Nick?
+            
+            -alangan!</item>
+        <item>Pwede ra kaha ko mabayot?
+            
+            -nabayot na ka ni Erwin?</item>
+    </string-array>
+    
+    <string-array name="question">
+        <item>What is your favorite anime?</item>
+        <item>Who is your favorite singer?</item>
+        <item>What are you doing right now?</item>
+        <item>Are you in love?</item>
+        <item>Gwapo ko?</item>
+        <item>Pinakagwapo man ko sa?</item>
+        <item>Aha ka magbakasyon?</item>
+        <item>What pet do you like?</item>
+        <item>Do you like cats?</item>
+        <item>Bayot ko?</item>
+    </string-array>
+
+</resources>
