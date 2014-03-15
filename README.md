@@ -1,4 +1,4 @@
-PostItAndroid
+Post-it
 =============
 
 Post-it Application is the newest developed android application in the market. It is a social media interaction wherein people get to ask, post and share their questions.
@@ -7,7 +7,7 @@ It is another way of keeping in touch with your love one’s by following and ge
 
 
 
-![Post-it](http://i61.tinypic.com/mkgn6b.jpg) 
+![Post-it](http://i58.tinypic.com/iehzio.jpg) 
 ![Post-it](http://i60.tinypic.com/11jraqx.jpg)
 
 
